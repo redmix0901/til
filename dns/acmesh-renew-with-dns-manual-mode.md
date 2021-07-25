@@ -16,3 +16,9 @@ Thêm record TXT vào DNS với 2 giá trị output trên
 acme.sh --renew -d ams.topdev.asia \
   --yes-I-know-dns-manual-mode-enough-go-ahead-please
 ```
+
+Reload lại nginx
+
+```javascript
+nginx -s reload
+```
