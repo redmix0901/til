@@ -1,0 +1,17 @@
+What is the most difficult for development?
+What are your tasks for the last 6 months?
+What are the tasks takes most of your time?
+What is the current process for development?
+What is the systematic problem of current architecture?
+How to resolve the issue on following?
+What is the current structure of service?
+How to managing the source code?
+How are you managing the projects?
+Which tools are utilized to keep track on Voice of customers, bugs, and other issues?
+What are periodical maintenance targets and terms?
+What happens on any network issues?
+Which languages and frameworks are used?
+What methods have you tried to improve website loading time?
+How are services are monitored?
+How logs are managed?
+What is the process for security breach?
