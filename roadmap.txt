@@ -1,0 +1,7 @@
+Programming languages: Python, Go, and Java.
+Cloud platforms: AWS, GCP, and Azure (in that order).
+Containers: Docker.
+Infrastructure as Code: Terraform.
+Databases: PostgreSQL, Redis, and MySQL.
+Configuration management: Ansible.
+CI/CD: Jenkins.
